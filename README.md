@@ -3,7 +3,7 @@
     title="May Contain Malicious Binaries/Scripts" align="right" />
     </a>
 
-**The data published here has been collected in the wild and contains weekly dumps from a Cowrie honeypot. This data may contain malicious binaires, scripts, and more.**
+**The data published here has been collected in the wild and contains weekly dumps from a Cowrie honeypot. This data may contain malicious binaires, scripts, etc. This repository is for research and learning purposes only!**
 
 
 
