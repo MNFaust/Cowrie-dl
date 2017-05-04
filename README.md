@@ -1,6 +1,7 @@
-## Weekly Cowrie Honeypot downloads
 <a href ="https://github.com/MNFaust/Cowrie-dl">
-  <img src="http://i.imgur.com/cUy4Rtt.png" alt="May Contain Malicious Content"
+  <img src="http://i.imgur.com/cUy4Rtt.png"
     title="May Contain Malicious Binaries/Scripts" align="right" />
-</a>
+    </a>
+## Weekly Cowrie Honeypot downloads
+The data published here has been collected contains weekly data dumps from a Cowrie honeypot. This data may contain malicious binaires, scripts, and more.
 
