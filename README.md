@@ -9,7 +9,7 @@
 
 # Purpose
 
-The goal of the repository is for security professionals & students to have access to data that is currently being used to exploit common and new vulnerabiliites. 
+The goal of the repository is for security professionals & students to have access to data that is currently being used to exploit common and new vulnerabilities. 
 
 # Format
 
