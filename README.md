@@ -7,15 +7,15 @@
 
 
 
-#Purpose
+# Purpose
 
 The goal of the repository is for security professionals & students to have access to data that is currently being used to exploit common and new vulnerabiliites. 
 
-#Format
+# Format
 
 Dumps will be uploaded weekly from the Cowrie dl directory. For more information on what is collected within the dl directory, [please read here.][1] The format will be in a tar.gz.
 
-#Collaboration
+# Collaboration
 
 If others would like to contribute to this repository with other honeypot data/binaries, please feel free to do so. 
 
