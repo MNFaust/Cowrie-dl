@@ -1,3 +1,3 @@
 # Cowrie-dl
 ### Weekly Cowrie Honeypot downloads
-![](http://i.imgur.com/1kiXbZW.png)
+![](http://i.imgur.com/cUy4Rtt.png)
