@@ -15,6 +15,10 @@ The goal of the repository is for security professionals & students to have acce
 
 Dumps will be uploaded weekly from the Cowrie dl directory. For more information on what is collected within the dl directory, [please read here.][1] The format will be in a tar.gz.
 
+# Server Info
+
+Only one server is collecting this data (at this point). The server location is NY,USA.
+
 # Collaboration
 
 If others would like to contribute to this repository with other honeypot data/binaries, please feel free to do so. 
