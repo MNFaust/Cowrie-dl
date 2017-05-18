@@ -23,6 +23,13 @@ Only one server is collecting this data (at this point). The server location is 
 
 If others would like to contribute to this repository with other honeypot data/binaries, please feel free to do so. 
 
+# Split Files
+
+Some of the dumps have been fairly large and as such, I have had to split the tar.gz file into 25MB files to accomidate the lack of 
+RAM within the Honeypot VM and the Max upload limit within Github. You will need to use the car command to concatenate the files into one tar.gz file and then extract after:
+
+**Concatenate Syntax:**  *cat May_18_2017_Cowrie_dl_Dump.tar.gz.parta\*\> May_18th.tar.gz*
+
 
 
 
