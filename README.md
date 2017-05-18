@@ -30,7 +30,11 @@ RAM within the Honeypot VM and the Max upload limit within Github. You will need
 
 **Concatenate Syntax:**  *cat May_18_2017_Cowrie_dl_Dump.tar.gz.parta\*\> May_18th.tar.gz*
 
-
+# Get notified of weekly uploads
+<a href="https://twitter.com/JFaust0">
+  <img src="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697029-twitter-512.png" height=75, width=75, align="right" />
+  </a>
+  **Twitter:** Jfaust0
 
 
 
