@@ -32,8 +32,9 @@ RAM within the Honeypot VM and the Max upload limit within Github. You will need
 
 # Get notified of weekly uploads
 <a href="https://twitter.com/JFaust0">
-  <img src="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697029-twitter-512.png" height=75, width=75, align="right" />
+  <img src="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697029-twitter-512.png" height=75, width=75, align="left" />
   </a>
+  
   **Twitter:** Jfaust0
 
 
