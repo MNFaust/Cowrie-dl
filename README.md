@@ -28,11 +28,12 @@ If others would like to contribute to this repository with other honeypot data/b
 Some of the dumps have been fairly large and as such, I have had to split the tar.gz file into 25MB files to accomidate the lack of 
 RAM within the Honeypot VM and the Max upload limit within Github. You will need to use the *cat* command to concatenate the files into one tar.gz file and then extract after:
 
+**Concatenate Syntax:**  *cat May_18_2017_Cowrie_dl_Dump.tar.gz.parta\*\> May_18th.tar.gz*
+
 # Files larger than 1GB
 
 The longer the host is up it seems the heavier the attacks are and therefore the amount of data being downloaded and stored by the honeypots. For files larger than 1GB, I will be hosting them on Google Drive and making them agailble via a link stored in a text file within the /Corwire_Data directory.
 
-**Concatenate Syntax:**  *cat May_18_2017_Cowrie_dl_Dump.tar.gz.parta\*\> May_18th.tar.gz*
 
 # Get notified of weekly uploads
 <a href="https://twitter.com/JFaust0">
