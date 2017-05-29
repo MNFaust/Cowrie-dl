@@ -32,7 +32,7 @@ RAM within the Honeypot VM and the Max upload limit within Github. You will need
 
 # Files larger than 1GB
 
-The longer the host is up it seems the heavier the attacks are and therefore the amount of data being downloaded and stored by the honeypots. For files larger than 1GB, I will be hosting them on Google Drive and making them agailble via a link stored in a text file within the /Corwire_Data directory.
+The longer the host is up it seems the heavier the attacks are and therefore the amount of data being downloaded and stored by the honeypots. For files larger than 1GB, I will be hosting them on Google Drive and making them availble via a link stored in a text file within the /Corwire_Data directory.
 
 
 # Get notified of weekly uploads
