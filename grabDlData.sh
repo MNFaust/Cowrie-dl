@@ -22,7 +22,7 @@ fileName=$(echo ${todayDate}"_Cowrie_dl_Dump")
 mv dl ${fileName}
 
 # create a tar.gz for the directory
-tar -zcvf ${fileName}".tar.gz" /home/josh/$filename
+tar -zcvf ${fileName}".tar.gz" $filename
 
 # Remove unneccssary Data Files and Move
 rm -rf $fileName
